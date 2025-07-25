@@ -1,4 +1,4 @@
-# Aderemi "Gray" Ademola
+# Aderemi Ademola
 
 **AI Engineer • AI Architect • Software Engineer**
 
