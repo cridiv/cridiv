@@ -8,7 +8,7 @@ I design intelligent systems that solve real problems, from language interfaces 
 
 ## AI / ML Stack
 
-**LangChain** · **LangGraph** **Autogen** · **OpenAI** · **HuggingFace** · **Whisper** · **Pinecone**
+**LangChain** · **LangGraph** · **Autogen** · **OpenAI** · **HuggingFace** · **Whisper** · **Pinecone**
 
 ---
 
