@@ -4,6 +4,7 @@
 
 I design intelligent systems that solve real problems, from language interfaces and analysis to agent-based tools. My focus is building AI-native products that feel natural, alive, fast, and useful.
 
+[![wakatime](https://wakatime.com/badge/user/ab9fbdb3-3d24-4329-ad9c-809af50429a5.svg)](https://wakatime.com/@ab9fbdb3-3d24-4329-ad9c-809af50429a5)
 ---
 
 ## AI / ML Stack
