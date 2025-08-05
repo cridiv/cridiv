@@ -110,29 +110,6 @@ class DevPhilosophy:
 
 ---
 
-## 🌟 Featured Projects
-
-<!-- Add your top 3-4 projects here -->
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cridiv&repo=PROJECT_1&theme=tokyonight)](https://github.com/cridiv/Rave)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cridiv&repo=PROJECT_2&theme=tokyonight)](https://github.com/cridiv/Veil)
-
-</div>
-
----
-
-## 📈 Profile Views & Followers
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)](https://github.com/cridiv)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=blue)](https://github.com/cridiv?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=yellow)](https://github.com/cridiv)
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
@@ -148,6 +125,4 @@ class DevPhilosophy:
 
 <div align="center">
   <h3>💫 "Building the future, one intelligent system at a time" 💫</h3>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
