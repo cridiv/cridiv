@@ -1,20 +1,13 @@
 # Hi there, I'm Aderemi Ademola 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+AI+Architect;Software+Engineer;Building+Intelligent+Systems;AI-Native+Product+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Backend+Engineer+%7C+AI+Architect;Software+Engineer;Building+Intelligent+Systems;AI-Native+Product+Developer" alt="Typing SVG" />
 </div>
 
 ## About Me
 I design intelligent systems that solve real problems, from language interfaces and analysis to agent-based tools. My focus is building **AI-native products** that feel natural, alive, fast, and useful.
 
 ## Tech Stack
-
-### AI/ML
-[![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com/)
-[![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge)](https://langchain-ai.github.io/langgraph/)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
-[![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
-[![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)](https://www.pinecone.io/)
 
 ### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
