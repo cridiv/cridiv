@@ -8,16 +8,6 @@
 
 I design intelligent systems that solve real problems, from language interfaces and analysis to agent-based tools. My focus is building **AI-native products** that feel natural, alive, fast, and useful.
 
-## 🏆 Achievements & Hackathons
-
-- 🥇 **1st Place** — Code n Corgi FUNAAB Hackathon (October 2025)  
-  Built **[Dallnk](https://github.com/cridiv/dallnk)**, a decentralized data sharing and verification platform built on Filecoin with AI-powered validation. It connects data requesters with providers through a transparent bounty system, ensuring data integrity via blockchain and automated AI checks.  
-  Collaborated with [@Nebulaz7](https://github.com/Nebulaz7) and [@zeekalph](https://github.com/zeekalph).  
-
-- 🥇 **Certified Polkadot Tinkerer** — Polkadot Builder Party Hackathon (December 2025)  
-  Built **[Devra](https://devpost.com/software/devra)**, a decentralized marketplace for high-quality datasets minted as NFTs, featuring AI verification, encrypted IPFS storage, and on-chain trading powered by Polkadot's Asset Hub.  
-  Collaborated with [@Nebulaz7](https://github.com/Nebulaz7) and [@zeekalph](https://github.com/zeekalph).  
-
 ## Tech Stack
 
 ### Languages
