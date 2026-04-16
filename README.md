@@ -8,8 +8,6 @@
 
 I’m a software engineer focused on building end-to-end systems, from data pipelines and backend infrastructures to AI-powered applications.
 
-![Coding Activity](https://wakatime.com/share/@Gray0/50f3e05f-bc74-4bec-aaac-fe224b203ce7.svg)
-
 ## Tech Stack
 
 ### Languages
