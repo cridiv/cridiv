@@ -8,6 +8,10 @@
 
 I design intelligent systems that solve real problems, from language interfaces and analysis to agent-based tools. My focus is building **AI-native products** that feel natural, alive, fast, and useful.
 
+## Coding Activity
+
+<figure><embed src="https://wakatime.com/share/@Gray0/50f3e05f-bc74-4bec-aaac-fe224b203ce7.svg"></embed></figure>
+
 ## Tech Stack
 
 ### Languages
