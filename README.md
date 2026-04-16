@@ -6,7 +6,7 @@
 
 ## About Me
 
-I design intelligent systems that solve real problems, from language interfaces and analysis to agent-based tools. My focus is building **AI-native products** that feel natural, alive, fast, and useful.
+I’m a software engineer focused on building end-to-end systems, from data pipelines and backend infrastructures to AI-powered applications.
 
 ![Coding Activity](https://wakatime.com/share/@Gray0/50f3e05f-bc74-4bec-aaac-fe224b203ce7.svg)
 
@@ -14,6 +14,7 @@ I design intelligent systems that solve real problems, from language interfaces 
 
 ### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
